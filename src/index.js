@@ -37,7 +37,7 @@ const authors=[
     name:'Charles Dickens',
     imageUrl:'images/authors/charlesdickens.jpg',
     imageSource:'Wikimedia Commons',
-    books:['David Copperfield', 'A Tale of Two City']
+    books:['David Copperfield', 'A Tale of Two Cities']
    },
    {
     name:'William Shakespeare',
