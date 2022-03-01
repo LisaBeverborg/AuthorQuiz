@@ -7,6 +7,9 @@
    padding-bottom: 50px;
  }
 
+ .authorName{
+  text-align: center;
+}
  .authorimage{
    height: 350px;
    width: 350px;
